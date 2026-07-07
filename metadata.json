@@ -1,0 +1,6 @@
+{
+  "name": "Smart Bharat",
+  "description": "An AI-powered civic platform designed to simplify Indian government information, welfare schemes, and application status tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
